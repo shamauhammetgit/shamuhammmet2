@@ -1,2 +1,1 @@
-changed main.py
-here could be your ad)
+print('here could be your ad)')
